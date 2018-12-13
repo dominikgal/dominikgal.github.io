@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.KodiWiz" name="Kodi Wizard" version="0.2" provider-name="Dominik">
+<addon id="plugin.program.KodiWiz" name="Kodi Wizard" version="0.3" provider-name="Dominik">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
