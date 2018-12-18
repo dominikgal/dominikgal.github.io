@@ -3,7 +3,7 @@ version="0.3"
 zip="https://dominikgal.github.io/kodiWiz/plugin.program.KodiWiz.zip"
 
 name="Kodi Custom Build"
-version="0.3"
+version="0.5"
 url="https://dominikgal.github.io/Wizard/Builds/kodibuild.zip"
 gui="http://"
 kodi="17.6"
