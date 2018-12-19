@@ -101,9 +101,9 @@ REPOZIPURL     = ''
 ### NOTIFICATION WINDOW##################################
 #########################################################
 # Enable Notification screen Yes or No
-ENABLE         = 'No'
+ENABLE         = 'Yes'
 # Url to notification file
-NOTIFICATION   = ''
+NOTIFICATION   = 'https://dominikgal.github.io/Wizard/Texts/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = ''
 HEADERMESSAGE  = ''
