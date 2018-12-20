@@ -4,7 +4,7 @@ zip="https://dominikgal.github.io/kodiWiz/plugin.program.KodiWiz.zip"
 
 name="Kodi Custom Build"
 version="0.6"
-url="https://kodi.balkan-arena.mojkgb.com/Builds/kodibuild.zip"
+url="https://drive.google.com/uc?export=download&id=1dK2pfSiMWyI5z_7_1Gwu47NOuM7Cjf-3"
 gui="http://"
 kodi="17.6"
 theme="http://"
