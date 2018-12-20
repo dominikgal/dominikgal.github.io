@@ -1,5 +1,5 @@
 id="plugin.program.KodiWiz"
-version="0.4"
+version="0.5"
 zip="https://dominikgal.github.io/kodiWiz/plugin.program.KodiWiz.zip"
 
 name="Kodi Custom Build"
