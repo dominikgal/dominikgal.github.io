@@ -1,10 +1,10 @@
 id="plugin.program.KodiWiz"
-version="0.5"
+version="1.0"
 zip="https://dominikgal.github.io/kodiWiz/plugin.program.KodiWiz.zip"
 
 name="Kodi Custom Build"
 version="0.7"
-url="https://kodi.balkan-arena.mojkgb.com/Builds/kodibuild.zip"
+url="https://dominikgal.github.io/Wizard/Builds/kodibuild.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
