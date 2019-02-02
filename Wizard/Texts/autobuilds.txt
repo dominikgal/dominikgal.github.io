@@ -1,6 +1,6 @@
 id="plugin.program.KodiWiz"
 version="1.0"
-zip="https://dominikgal.github.io/kodiWiz/plugin.program.KodiWiz.zip"
+zip="https://dominikgal.github.io/kodiWiz/plugin.program.kodiWiz.zip"
 
 name="Kodi Custom Build"
 version="0.7"
