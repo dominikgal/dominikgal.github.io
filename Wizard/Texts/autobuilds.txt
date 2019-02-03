@@ -1,8 +1,4 @@
-id="plugin.program.KodiWiz"
-version="1.0"
-zip="https://dominikgal.github.io/kodiWiz/plugin.program.kodiWiz.zip"
-
-name="Kodi Custom Build"
+name="Kodi PRO Build"
 version="0.7"
 url="https://kodi.balkan-arena.mojkgb.com/Builds/kodibuild.zip"
 gui="http://"
