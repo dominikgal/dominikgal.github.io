@@ -1,5 +1,5 @@
 name="Kodi PRO Build"
-version="0.7"
+version="0.8"
 url="https://kodi.balkan-arena.mojkgb.com/Builds/kodibuild.zip"
 gui="http://"
 kodi="18.0"
