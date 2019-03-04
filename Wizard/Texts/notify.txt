@@ -1,7 +1,0 @@
-3
-|||
- ========= KODI CUSTOM BUILD =========
-[COLOR orange]v.0.6[/COLOR]
-new build server
-
-
