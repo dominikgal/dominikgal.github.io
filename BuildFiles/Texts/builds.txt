@@ -3,7 +3,7 @@ version="1.4"
 zip="https://dominikgal.github.io/aftermath/plugin.program.AfterMath.zip"
 
 name="Leia Build"
-version="2.1"
+version="2.2"
 url="https://kodi.balkan-arena.mojkgb.com/Builds/kodi18.zip"
 minor="http://"
 gui="http://"
