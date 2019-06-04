@@ -1,5 +1,5 @@
 id="plugin.program.AfterMath"
-version="1.4"
+version="1.5"
 zip="https://dominikgal.github.io/aftermath/plugin.program.AfterMath.zip"
 
 name="Leia Build"
