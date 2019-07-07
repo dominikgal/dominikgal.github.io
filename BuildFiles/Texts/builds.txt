@@ -1,9 +1,9 @@
 id="plugin.program.AfterMath"
-version="1.5"
-zip="https://dominikgal.github.io/aftermath/plugin.program.AfterMath.zip"
+version="2.0"
+zip="https://dominikgal.github.io/aftermath/plugin.program.aftermath.zip"
 
 name="Leia Build"
-version="2.3"
+version="2.5"
 url="https://kodi.balkan-arena.mojkgb.com/Builds/kodi18.zip"
 minor="http://"
 gui="http://"
